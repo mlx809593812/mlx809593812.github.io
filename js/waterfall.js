@@ -16,6 +16,7 @@
       {
           demo_link: 'https://blog.csdn.net/Jeffrey20170812/article/details/83575754',
           img_link: 'https://img-blog.csdnimg.cn/20181031101022866.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0plZmZyZXkyMDE3MDgxMg==,size_16,color_FFFFFF,t_70',
+          code_link: 'https://blog.csdn.net/Jeffrey20170812/article/details/83575754',
           title: '第三方登陆实践之基于OAuth的FACEBOOK Web Login（最新版）',
           core_tech: 'JavaScript',
           description: '通过采用 JavaScript 版 Facebook SDK 的“Facebook 登录”，用户可以使用 Facebook 登录信息登录您的网页。'
