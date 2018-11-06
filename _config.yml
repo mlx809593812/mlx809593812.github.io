@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -58,3 +59,6 @@ excerpt_separator: "\n\n\n\n"
 # paginate
 gems: [jekyll-paginate]
 paginate: 6
+=======
+theme: jekyll-theme-minimal
+>>>>>>> 3642a72c516ddf8cba1c5e4b82a27f4f3e97852a
